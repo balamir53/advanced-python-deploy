@@ -4,6 +4,7 @@ python-dotenv
 marshmallow
 sqlalchemy
 flask-sqlalchemy
+passlib
 flask-jwt-extended
 flask-migrate
 gunicorn
